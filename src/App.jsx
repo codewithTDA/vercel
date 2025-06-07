@@ -1,7 +1,10 @@
 import React from 'react'
+import Otp from './Otp'
 
 export default function App() {
   return (
-    <div>App</div>
-  ) 
+    <>
+      <Otp />
+    </>
+  )
 }
